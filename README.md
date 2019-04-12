@@ -18,6 +18,6 @@ Author: *Niek van Bennekom*
 
 Copyright: [Niekvb Media](https://www.niekvb.com/ "Go to website") © 2019
 
-Version: `0.1.1`
+Version: `0.1.2`
 
 Licensed under the [MIT license](./LICENSE "View license").
